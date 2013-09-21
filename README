@@ -1,7 +1,6 @@
 Confluence Plugin Skeleton
 --------------------------
-I generated this skeleton project using Maven and the Atlassian SDK. In not always possible to 
-install an SDK in an environment that is locked down, thus the need for a quick skeleton project.
+I generated this skeleton project using Maven and the Atlassian SDK. It's not always possible to install an SDK in an environment that is locked down, thus the need for a quick skeleton project.
 
 Version Support
 ---------------
