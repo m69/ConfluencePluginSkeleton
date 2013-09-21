@@ -1,3 +1,15 @@
+Confluence Plugin Skeleton
+--------------------------
+I generated this skeleton project using Maven and the Atlassian SDK. In not always possible to 
+install an SDK in an environment that is locked down, thus the need for a quick skeleton project.
+
+Version Support
+---------------
+At the time of this writing, this project skeleton is compatibile with v4.x+ and v5.x
+
+
+Generated
+---------
 You have successfully created an Atlassian Plugin!
 
 Here are the SDK commands you'll use immediately:
